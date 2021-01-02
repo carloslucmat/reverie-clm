@@ -8,4 +8,4 @@ Originalmente el texto se llama _Herramientas no etnográficas para hacer etnogr
 
 El texto se puede consultar en este [link](https://carloslucmat.github.io/herramientas-etno/).
 
-Estaba pensando mucho en el formato. Me gusta la tabla de contenidos, pero no me termina de convencer tener pies de página hasta el final, me gusta más el formato Tufte, pero no tiene lo demás. Agh. Ni modo. Voy a ver que más puedo hacer.
+Estaba pensando mucho en el formato. Me gusta la tabla de contenidos, pero no me termina de convencer tener pies de página hasta el final, me gusta más el formato Tufte, pero no tiene lo demás. El tema [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) para Github parece buena opción, pero eso actualizar a cada rato la rama para que se muestre la página está horrible. Agh. Ni modo. Voy a ver que más puedo hacer.
