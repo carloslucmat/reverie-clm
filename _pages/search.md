@@ -5,7 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="¿¯\_(ツ)_/¯?">
+    <input type="text" id="search-input" placeholder="Busca algo ¯\_(ツ)_/¯">
     <ul id="results-container"></ul>
 </div>
 
