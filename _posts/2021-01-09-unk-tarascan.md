@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Herramientas digitales para hacer etnografía
+title: Carl Lumholtz en Michoacán
 categories: [antropología, etnografía, Michoacán, purépecha, Carl Lumholtz]
 ---
 
-
-
-# Lumholtz en Michoacán
 ![Carl Lumholtz en la Sierra Madre en Chihuahua, 1892](/images/lumholtz-chihuahua.png)
 
 >Se me consideraba la causa de todas las desgracias que ocurrían: tormentas de granizo, lluvias inusualmente fuertes, abortos en mujeres, etc. El jefe de policía de un pueblo vecino declaró a Don Sebastián: "El Anticristo está ahora en Cherán. No podemos venderle nada, y vigilamos cuidadosamente la puerta de la iglesia, por miedo a que pueda entrar." Unas semanas antes de mi llegada un individuo imaginativo había visto a un hombre con un solo ojo cortar la cabeza de los indios; y ahora se pensaba que yo era ese personaje. Las madres evitaban que sus bebés lloraran mencionando mi nombre, y un borracho aseguró el perdón de su esposa amenazando con entregarse a mí. Algunos sabios incluso preguntaron al cura si no era para quitarles todo el pueblo que yo quería comprar tantas cosas. (Lumholtz, 1902: 397)
