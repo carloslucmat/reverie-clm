@@ -42,3 +42,7 @@ categories: [antropología, etnografía, Michoacán, purépecha, Carl Lumholtz]
 ![](/images/unknownmexicorec02lumh_0463.jpg)
 ![](/images/unknownmexicorec02lumh_0496.jpg)
 ![](/images/unknownmexicorec02lumh_0503.jpg)
+
+---
+
+- Lumholtz, Carl. 1902. Unknown Mexico; a Record of Five Years’ Exploration among the Tribes of the Western Sierra Madre; in the Tierra Caliente of Tepic and Jalisco; and among the Tarascos of Michoacan. New York: C. Scribner’s sons. http://archive.org/details/unknownmexicorec02lumh.
