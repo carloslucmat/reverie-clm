@@ -21,7 +21,8 @@ categories: [antropología, etnografía, Michoacán, purépecha, Carl Lumholtz]
 ### Lumholtz queriendo comprar un cuerpo
 >Encontré el cuerpo extendido en el medio de la habitación, rodeado, a la manera católica, por velas encendidas. Era un espléndido ejemplar de su raza. Pero ni el dinero ni ningún otro argumento sirvió de nada. [...] "Este hombre quiere comprar el cuerpo de su hermano, pero supongo que usted no lo venderá..." [...] Si el presidente hubiera sido tan iluminado y valiente como el cura, se habría ganado mucho para la ciencia ese día. [...] unos días más tarde obtuve permiso del presidente y del cura para excavar en el cementerio. Este último incluso me ofreció los servicios de su peón para desenterrar a un hombre que había muerto hace unos nueve años a la edad de cien años. Había sido un típico tarasco, miembro de una de las antiguas familias y un hombre de tal fuerza física que, como el propio sacerdote había notado, le estaba creciendo el pelo en su vejez, y estaba poco calvo delante y sólo ligeramente canoso. (Lumholtz, 1902: 293-95)
 
-## Cerámica purépecha (Zacapu, Cherán, Arantepacua, Tzintzuntzan, entre otros)
+## Cerámica purépecha
+#### Zacapu, Cherán, Arantepacua, Tzintzuntzan, entre otros
 ![](/images/unknownmexicorec02lumh_0457.jpg)
 ![](/images/unknownmexicorec02lumh_0452.jpg)
 ![](/images/terracota-bowl.png)
